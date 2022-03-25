@@ -1,5 +1,9 @@
 # CRM for creating blog articles - DJANGO + REACT
 
+Complete REST backend with data serialization, viewsets, routers and authentication.
+
+Simple React frontend to visualise article-creation, article-deletion, article-deletion , login, signup, logout.
+
 ### Configuration for REST DJANGO backend
 
 (Recommendation for virtualenv before starting Django server)
